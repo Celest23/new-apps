@@ -18,8 +18,6 @@ with col2:
     """
     st.info(content)
 
-
-
 content2 = """ Another solution """
 
 st.write(content2)
